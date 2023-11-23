@@ -1,5 +1,5 @@
 ##################################TCPDF##############################################
-1. Download library http://sourceforge.net/projects/tcpdf/files/ ATAU https://github.com/tecnickcom/TCPDF/archive/refs/heads/main.zip
+1. Download library http://sourceforge.net/projects/tcpdf/files/ ATAU  https://github.com/tecnickcom/TCPDF/archive/refs/heads/main.zip
 3. Ekstrak semua file dan taruh di folder libraries, /application/libraries/tcpdf
 4. Buat sebuah file /application/libraries/Pdf.php
 
