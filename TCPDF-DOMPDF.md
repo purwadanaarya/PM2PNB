@@ -1,7 +1,7 @@
 ##################################TCPDF##############################################
-1. Download library http://sourceforge.net/projects/tcpdf/files/
-2. Ekstrak semua file dan taruh di folder libraries, /application/libraries/tcpdf
-3. Buat sebuah file /application/libraries/Pdf.php
+1. Download library http://sourceforge.net/projects/tcpdf/files/ ATAU https://github.com/tecnickcom/TCPDF/archive/refs/heads/main.zip
+3. Ekstrak semua file dan taruh di folder libraries, /application/libraries/tcpdf
+4. Buat sebuah file /application/libraries/Pdf.php
 
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
